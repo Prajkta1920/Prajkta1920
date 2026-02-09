@@ -84,21 +84,9 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
   <img src="Aduteration.png" width="800"/>
 </p>
 
-- Analyzed sales data to identify alduration trends, top aldurated productes and its state, and penalties imposed.  
+- Analyzed 10 years of Indian banking stock data to compare performance, risk, and trends across public and private sector banks. 
 - Built interactive dashboards to support data-driven decisions. 
 - *Tools:* Python, Pandas, Power BI, Advanced Excel.
 - *Project link:*https://github.com/Tejaspotraje/Dairy-and-Pharmaceutical-Adulteration-Project.git
-
----
-
-### Indian Petroleum Stocks Analysis
-<p>
-  <img src="Indian Petroleum Market.png" width="800"/>
-</p>
-
-- Evaluated the Indian Petroleum Stocks in Private and PSU sectors. 
-- Performed data cleaning, EDA, and visual analysis.
-- *Tools:* SQL, Python, Matplotlib,Seaborn, Numpy, Pandas, Power BI.
-- *Project link:*https://github.com/Tejaspotraje/indian-petroleum-stocks-analysis-excel-python-powerbi.git
 
 ---
