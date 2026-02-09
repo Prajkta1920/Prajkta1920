@@ -79,7 +79,7 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 
 # Projects
 
-### Quality crisies the surges of Adulteration.
+### FinPulse India : A Decade of Banking Stock Intelligence.
 <p>
   <img src="Aduteration.png" width="800"/>
 </p>
