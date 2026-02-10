@@ -87,6 +87,6 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 - Analyzed 10 years of Indian banking stock data to compare performance, risk, and trends across public and private sector banks. 
 - Built interactive dashboards to support data-driven decisions. 
 - *Tools:* Python, Pandas, Power BI, Advanced Excel.
-- *Project link:*https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_
+- *Project link:*https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_.git
 
 ---
