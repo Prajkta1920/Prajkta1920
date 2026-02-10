@@ -81,7 +81,7 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 
 ### FinPulse India : A Decade of Banking Stock Intelligence.
 <p>
-  <img src="Aduteration.png" width="800"/>
+  <img src="overview.png" width="1000"/>
 </p>
 
 - Analyzed 10 years of Indian banking stock data to compare performance, risk, and trends across public and private sector banks. 
